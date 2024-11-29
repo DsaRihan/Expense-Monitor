@@ -1,19 +1,23 @@
 # Expense-Tracker
 
 ## Overview
-The Expense Tracker is a simple Python application that allows users to manage their daily expenses effectively.
+The Expense Tracker is a user-friendly Python application designed to help you efficiently manage your daily expenses. With a simple and intuitive interface, you can track your spending effortlessly.
 
 ## Features
-- Add expenses with amount, description, category and date.
-- View all recorded expenses.
-- Data is stored in a JSON file.
+- **Add Expenses**: Easily add expenses with details such as amount, description, category, and date.
+- **View Expenses**: Quickly view all recorded expenses in one place.
+- **Persistent Storage**: Data is securely stored in a JSON file for easy access and backup.
 
 ## Requirements
 - Python 3.x
 
 ## How to Run
-1. Clone the repository.
-2. Navigate to the project directory.
-3. Run the application using:
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/your-username/expense-tracker.git
+2. **Navigate to the Project Directory:**:
+   ```bash
+   cd expense-tracker
+3. ***Run the Application:***
    ```bash
    python expense_track.py
