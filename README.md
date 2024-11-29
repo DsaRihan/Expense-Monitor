@@ -1,4 +1,4 @@
-# Expense-Tracker
+# Expense-Monitor
 
 ## Overview
 The Expense Tracker is a user-friendly Python application designed to help you efficiently manage your daily expenses. With a simple and intuitive interface, you can track your spending effortlessly.
